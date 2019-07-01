@@ -1,6 +1,7 @@
 theme: jekyll-theme-modernist
 title: [Floriana Zefi]
 description: [This website is dedicated to data science, machine learning and artificial intelligence.]
+
 footer-links:
   github: https://github.com/florianazefi/
   rss: # just type anything here for a working RSS icon
