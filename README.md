@@ -4,5 +4,5 @@
 &nbsp; 
 
 ## <font color='lightslategrey'> About me </font> 
-Astrophysicist | Data Scientist
+My name is Floriana and I am Astrophysicist | Data Scientist. 
 
