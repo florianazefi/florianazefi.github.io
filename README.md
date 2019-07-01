@@ -1,5 +1,8 @@
 # <font color='darkorange'> Welcome! </font>
 
+&nbsp;
+&nbsp; 
 
-## <font color='deepskyblue'> About me </font> 
+## <font color='lightslategrey'> About me </font> 
 Astrophysicist | Data Scientist
+
